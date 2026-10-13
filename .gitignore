@@ -5,15 +5,11 @@
 *.jar
 *.war
 *.ear
-*.zip
 
 # Extracted PowerPoint directories (lecture slides)
 ppt_00/
 ppt_01/
 ppt_02/
-
-# PowerPoint files (too large for repo)
-*.pptx
 
 # IDE files
 .idea/
