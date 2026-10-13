@@ -44,6 +44,9 @@ java Main
 |------|-------------|
 | `Main.java` | GA optimization algorithm, data model, evaluation function |
 | `Dashboard.java` | Professional Swing GUI with 4-tab dashboard |
+| `Optimization_Methods_Week_00.pptx` | Week 00 Lecture Slides |
+| `Optimization_Methods_Week_01.pptx` | Week 01 Lecture Slides |
+| `Optimization_Methods_Week_02.pptx` | Week 02 Lecture Slides (Random Search & Baselines) |
 
 ## Authors
 - hedeshawqiomer
