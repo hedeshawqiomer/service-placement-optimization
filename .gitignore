@@ -1,0 +1,32 @@
+# Compiled Java class files
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+*.zip
+
+# Extracted PowerPoint directories (lecture slides)
+ppt_00/
+ppt_01/
+ppt_02/
+
+# PowerPoint files (too large for repo)
+*.pptx
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Temporary render files
+RenderReal.java
+dashboard_real.png
